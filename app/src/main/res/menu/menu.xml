@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn1"
+        android:title="add"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/btn2"
+        android:title="remove"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/btn3"
+        android:title="Frag"
+        app:showAsAction="always" />
+</menu>
